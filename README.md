@@ -12,7 +12,7 @@ Médio: 6 tentativas
 
 Difícil: 3 tentativas
 
-Feedback se o chute foi maior ou menor que o número secreto.
+Feedback: se o chute foi maior ou menor que o número secreto.
 
 Mensagem de vitória se o jogador acertar antes de acabar as tentativas.
 
