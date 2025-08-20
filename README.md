@@ -22,13 +22,11 @@ Como jogar:
 
 Clone ou faça o download deste repositório.
 
-Execute o arquivo Python (python nome_do_arquivo.py).
+Execute o arquivo Python.
 
 Escolha a dificuldade desejada digitando 1, 2 ou 3.
 
 Tente adivinhar o número secreto dentro do limite de tentativas.
-
-python jogo_adivinhacao.py
 
 Exemplo de execução:
 Bem vindo ao jogo!
