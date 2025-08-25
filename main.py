@@ -11,13 +11,13 @@ def escolher_dificuldade():
     while True:
         escolha = input("Escolha um número: ")
         if escolha == "1":
-            print('Você escolheu o Modo facil')
+            print('Você escolheu o Modo fácil')
             return 10
         elif escolha == "2":
-            print('Você escolheu o Modo medio')
+            print('Você escolheu o Modo médio')
             return 6
         elif escolha == "3":
-            print('Você escolheu o Modo dificil')
+            print('Você escolheu o Modo difícil')
             return 3
         else:
             print("Por favor digite uma escolha valida!")
