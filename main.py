@@ -21,7 +21,6 @@ def escolher_dificuldade():
             return 3
         else:
             print("Por favor digite uma escolha valida!")
-            continue
 
     
 
