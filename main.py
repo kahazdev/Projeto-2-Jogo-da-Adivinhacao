@@ -7,8 +7,9 @@ def escolher_dificuldade():
     print("2 - Médio (6 Tentativas) ")
     print("3 - Difícil (3 Tentativas) ")
 
-    escolha = input("Escolha um número: ")
+    
     while True:
+        escolha = input("Escolha um número: ")
         if escolha == "1":
             print('Você escolheu o Modo facil')
             return 10
@@ -20,7 +21,8 @@ def escolher_dificuldade():
             return 3
         else:
             print("Por favor digite uma escolha valida!")
-            break
+            continue
+
     
 
 def jogar():
